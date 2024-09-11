@@ -1,0 +1,23 @@
+
+
+body    {background-color: grey}
+
+h1.note   {color: white;
+     text-align: center;
+	 font-size:350%;border: 5px solid black;}
+	 
+h2    {text-align: center;background-color:white;font-size:150%}
+
+p    {color: white; font-size: 120%}
+
+p.note {background-color:black; font-size:140%}
+
+li   {color:black;background-color:silver; font-size:110%;}
+
+.footer {color:black; 
+         background-color:silver; 
+		 font-size:120%; 
+	     text-align:center}
+
+ 
+
